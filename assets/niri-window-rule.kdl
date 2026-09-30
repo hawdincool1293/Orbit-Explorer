@@ -1,0 +1,6 @@
+// Add this top-level block to ~/.config/niri/config.kdl, then run niri validate.
+// This removes Niri's solid focus/border backing, not Orbit's own opacity.
+window-rule {
+    match app-id="^io[.]github[.]orbitexplorer[.]Orbit$"
+    draw-border-with-background false
+}
