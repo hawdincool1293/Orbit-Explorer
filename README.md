@@ -168,7 +168,7 @@ sudo pacman -S --needed python pyside6 python-numpy qt6-multimedia qt6-svg qt6-w
 The PDF fallback uses `pdfinfo`/`pdftoppm` from Poppler. On Debian/Ubuntu or
 Fedora the corresponding command-line package is `poppler-utils`.
 
-## macOS — create DMG and PKG on a Mac
+## macOS - create DMG and PKG on a Mac
 
 This step needs a Mac running Sequoia/Tahoe, Apple's command-line developer
 tools and a native Python environment. Build separately on Apple Silicon and
