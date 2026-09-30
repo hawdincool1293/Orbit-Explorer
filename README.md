@@ -26,7 +26,7 @@ Some of the quality of life features include:
 - Native audio, video and photo viewer within the app (so seperate apps are not needed).
 - Lightweight video trimmer / editor, and simplistic photo editor - for smaller changes that can be done outside software.
 - Simple audio rerouter - inspired by [qpwgraph](https://github.com/rncbc/qpwgraph)
-- [Rofi](https://github.com/davatorium/rofi)-style / MacOS Spotlight search-style file lookup - just by typing in the viewport.
+- [Rofi](https://github.com/davatorium/rofi)-style / MacOS Spotlight search-style file lookup - just by typing in the Orbit view.
 - Sidebar lists disks and partitions, allowing easy mounting and unmounting.
 - Terminal option, allowing for shell commands to be executed in current directory.
 - ZIP / Archive extraction features.
