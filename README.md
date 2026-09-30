@@ -33,15 +33,15 @@ Some of the quality of life features include:
 
 Shortcuts:
 
--       Ctrl + T - Opens a new "3D Viewport" file explorer in Home directory.
--       Ctrl + D - Duplicates current directory into new "3D Viewport" window.
--       Ctrl + Q - Closes current file explorer.
+-       Ctrl + T - Opens a new Orbit tile in Home directory.
+-       Ctrl + D - Duplicates current directory into a split Orbit tile.
+-       Ctrl + Q - Closes current tile.
 -       Ctrl + Left Click - Allows for multiple file selection.
 -       Shift + Left Click - Allows for mass file selection.
 -       Ctrl + C - Copies currently selected file(s).
 -       Ctrl + V - Pastes currently selected file(s).
 -       Ctrl + X - Cuts currently selected file(s).
--       Right Click Drag & Drop - Allows for duplication or cutting to seperate file explorer(s).
+-       Right Click Drag & Drop - Allows for duplication or cutting to other directories.
 -       Tab - View names of all files.
 
 
