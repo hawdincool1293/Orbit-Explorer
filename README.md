@@ -16,7 +16,7 @@ As someone who has practically no idea how to code, everything except for the ge
 - It looks pretty sick, one of the main goals was to make this look clean and to tailor to the "Linux ricing" aesthetic.
 - The amount of functionality that ships with Orbit - as lightweight as it is - generally just improves quality of life. It's essentially an all in one for most daily use and work.
 - It's a breath of fresh air and a break from the generic formula used everywhere else.
-- Despite it's extensive feature set, it's still simplistic and easy on the eyes. 
+- Despite its extensive feature set, it's still simplistic and easy on the eyes. 
 
 ## Features
 
