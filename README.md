@@ -5,7 +5,7 @@ Because the traditional file explorers are just a little too boring.
 
 The main reason Orbital Explorer was created was due to traditionally styled - Windows file explorer or Mac finder esque - file explorers feeling unoptimised in their speed and functionality. Orbit's main mission is to expedite the often drudgerous process for heavy file management tasks - such as video and photo editing or general data management. Orbit is a native Qt file explorer for CachyOS, Hyprland, and should work for other Linux desktops, but is tested only on Caelestia on CachyOS. 
 
-The main feature is the "Orbit view", which is a pseudo 3D view of all your files in your selected directory, inspired by [Obsidian](https://obsidian.md/) note-taking app.
+The main feature is the "Orbit view", which is a pseudo 3D view of all your files in your selected directory, inspired by the [Obsidian](https://obsidian.md/) note-taking app.
 
 ## AI
 
