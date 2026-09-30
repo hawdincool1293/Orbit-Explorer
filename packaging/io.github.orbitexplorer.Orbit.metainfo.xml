@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.orbitexplorer.Orbit</id>
+  <name>Orbit Explorer</name>
+  <summary>Spatial file browsing and native media editing</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LicenseRef-Proprietary</project_license>
+  <launchable type="desktop-id">io.github.orbitexplorer.Orbit.desktop</launchable>
+  <description><p>Browse a connected file globe, edit images and video timelines, and manage archives.</p></description>
+  <releases><release version="0.6.6" date="2026-09-30"/></releases>
+</component>

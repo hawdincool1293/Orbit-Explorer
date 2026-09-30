@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Orbit Explorer
+Comment=Spatial file explorer and native media tools
+Exec=Orbit %F
+Icon=io.github.orbitexplorer.Orbit
+Categories=System;FileManager;
+Terminal=false
+StartupWMClass=orbit-explorer
+MimeType=inode/directory;
