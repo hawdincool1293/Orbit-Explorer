@@ -51,7 +51,7 @@ Shortcuts:
 | :--- | :--- | :---: |
 | CachyOS Hyprland (Caelestia)|Tested and works natively| ✅ |
 | MacOS Sequoia  | Works with a few bugs | 🟨 |
-| CachyOS Hyprland (Niri) |  Works with custom rule | ✅ |
+| CachyOS (Niri) |  Works with custom rule | ✅ |
 | Windows |  Unsupported | ❌ |
 
 # Orbit Explorer - installation and build notes
