@@ -52,6 +52,7 @@ Shortcuts:
 | Hyprland (Caelestia)|Tested and works natively| ✅ |
 | MacOS Sequoia  | Works with a few bugs | 🟨 |
 | Hyprland (Niri) |  Works with custom rule | ✅ |
+| Windows |  Unsupported | ❌ |
 
 # Orbit Explorer - installation and build notes
 
